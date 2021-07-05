@@ -1,0 +1,21 @@
+.Centrados {
+  font-family: Arial;
+  text-align: center;
+}
+
+a:hover {
+  color: red;
+}
+
+a {
+  color: blue;
+}
+
+body {
+  background-color: skyblue;
+}
+
+#Encabezados {
+  font-style: italic;
+  font-weight: bold;
+}
